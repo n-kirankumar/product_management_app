@@ -1,0 +1,16 @@
+2024-06-26 11:31:37,688 - Application started.
+2024-06-26 11:31:37,691 - main function started.
+2024-06-26 11:31:43,870 - add_product function started.
+2024-06-26 11:32:15,872 - Added product: iphone
+2024-06-26 11:32:15,872 - add_product function ended.
+2024-06-26 11:32:15,872 - Product added successfully.
+2024-06-26 11:32:19,440 - list_products function started.
+2024-06-26 11:32:19,445 - Products listed.
+2024-06-26 11:32:19,445 - 1. iphone: $900000.0 (5 available)
+2024-06-26 11:34:30,271 - add_product function started.
+2024-06-26 11:34:40,798 - Error adding product: Invalid price format.
+2024-06-26 11:34:40,804 - add_product function ended.
+2024-06-26 11:34:40,804 - Error: Invalid price format.
+2024-06-26 12:00:02,555 - main function ended.
+2024-06-26 12:00:02,556 - Application finished successfully.
+2024-06-26 12:00:02,556 - Application ended.
